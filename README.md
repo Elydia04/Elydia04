@@ -43,10 +43,15 @@ Environment & Tools:
 
 <p>&nbsp;</p>  
 <div align="center"> 
-  <a href="https://github.com/Elydia04"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elydia04&theme=tokyonight"  width="70%"/>
-       <a href="https://open.spotify.com/embed/track/6H6ldB48HrWYQlMuVJbGHk?utm_source=generator" target="_blank">
-  <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="25%" alt="Spotify Now Playing"/>
+
+<a href="https://github.com/Elydia04">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elydia04&theme=tokyonight" width="70%"/>
 </a>
+
+<a href="https://open.spotify.com/track/6H6ldB48HrWYQlMuVJbGHk" target="_blank">
+<img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="25%" alt="Spotify Now Playing"/>
+</a>
+
 </div>
   
 <div>
