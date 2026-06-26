@@ -46,7 +46,7 @@ Environment & Tools:
 
 <a href="https://open.spotify.com/track/6H6ldB48HrWYQlMuVJbGHk" target="_blank">
 <img 
-src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j6pwj52jqr5xorf5xvvhwkatzq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
 width="25%"
 alt="Spotify Now Playing"
 />
