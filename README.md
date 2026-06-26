@@ -42,15 +42,15 @@ Environment & Tools:
 
 
 <p>&nbsp;</p>  
-<div align="center"> 
+<div align="center">
 
-<a href="https://open.spotify.com/track/6H6ldB48HrWYQlMuVJbGHk" target="_blank">
-<img 
-src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j6pwj52jqr5xorf5xvvhwkatzq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
-width="25%"
-alt="Spotify Now Playing"
-/>
+<a href="https://open.spotify.com/track/6H6ldB48HrWYQlMuVJbGHk">
+
+<img src="https://img.shields.io/badge/🎧%20Oceans%20%26%20Engines-NIKI-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+
 </a>
+
+</div>
 
 </div>
   
